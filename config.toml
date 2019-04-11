@@ -17,10 +17,10 @@ theme = "hugo-nuo"
   url = "/portfolio/"
 
 [[menu.main]]
-  name = "Works"
+  name = "Papers"
   weight = 30
   identifier = "works"
-  url = "https://github.com/laozhu"
+  url = "https://scholar.google.co.jp/citations?user=QiscMP0AAAAJ&hl"
 
 [[menu.main]]
   name = "Tags"
