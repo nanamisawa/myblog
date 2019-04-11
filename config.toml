@@ -14,7 +14,7 @@ theme = "hugo-nuo"
   name = "About"
   weight = 20
   identifier = "about"
-  url = "/"
+  url = "/portfolio/"
 
 [[menu.main]]
   name = "Works"
