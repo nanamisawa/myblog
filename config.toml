@@ -1,6 +1,6 @@
 baseURL = "http://nanamisawa.github.io/"
 languageCode = "ja"
-title = "My Blog"
+title = "7."
 theme = "hugo-nuo"
 
 pygmentsUseClasses=true
