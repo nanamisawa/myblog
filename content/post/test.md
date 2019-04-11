@@ -6,7 +6,5 @@ draft: false
 
 ## Test
 
-```
-echo "hi"
-```
+    echo "hi"
 
