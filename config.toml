@@ -35,7 +35,7 @@ pygmentsCodefences = true
   bg = "images/grey-prism.svg"
   avatar = "images/nana_android.png"
   seotitle = "7."
-  subtitle = "~ Keep It Simple & Stupid ~"
+  subtitle = "It's a fluke"
   description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
   paginate = 10
   # Choose your social networks
