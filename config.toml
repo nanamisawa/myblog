@@ -4,6 +4,7 @@ title = "My Blog"
 theme = "hugo-nuo"
 
 pygmentsUseClasses=true
+pygmentsCodefences = true
 
 [[menu.main]]
   name = "Home"
