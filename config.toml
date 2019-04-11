@@ -28,7 +28,8 @@ theme = "hugo-nuo"
   identifier = "tags"
   url = "/tags/"
 
-# Choose your social networks
-email = "misawa.nana7@gmail.com"
-github = "nanamisawa"
-twitter = "mswn7"
+[params]
+  # Choose your social networks
+  email = "misawa.nana7@gmail.com"
+  github = "nanamisawa"
+  twitter = "mswn7"
