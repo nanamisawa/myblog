@@ -8,6 +8,6 @@ draft: false
 
 
 
-```
+```math
 echo "hi"
 ```
