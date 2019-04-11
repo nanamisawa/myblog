@@ -6,8 +6,6 @@ draft: false
 
 ## Test
 
-```math
-e^{i\pi} = -1
-```
+$$e^{i\pi} = -1$$
 
 
