@@ -11,14 +11,20 @@ theme = "hugo-nuo"
   url = "/"
 
 [[menu.main]]
-  name = "Works"
+  name = "About"
   weight = 20
+  identifier = "about"
+  url = "portfolio"
+
+[[menu.main]]
+  name = "Works"
+  weight = 30
   identifier = "works"
   url = "https://github.com/laozhu"
 
 [[menu.main]]
   name = "Tags"
-  weight = 30
+  weight = 40
   identifier = "tags"
   url = "/tags/"
 
