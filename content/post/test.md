@@ -6,3 +6,7 @@ draft: false
 
 ## Test
 
+```
+echo "hi"
+```
+
