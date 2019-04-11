@@ -7,6 +7,7 @@ draft: false
 ## Test
 
 ```math
-echo "hi"
+e^{i\pi} = -1
 ```
+
 
