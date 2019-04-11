@@ -3,6 +3,7 @@ languageCode = "ja"
 title = "My Blog"
 theme = "hugo-nuo"
 
+pygmentsUseClasses=true
 
 [[menu.main]]
   name = "Home"
