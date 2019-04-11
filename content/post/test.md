@@ -6,8 +6,7 @@ draft: false
 
 ## Test
 
-
-
 ```math
 echo "hi"
 ```
+
