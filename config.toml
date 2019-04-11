@@ -31,8 +31,8 @@ theme = "hugo-nuo"
 [params]
   author = "Nana Misawa"
   bg = "images/grey-prism.svg"
-  avatar = "images/nana_android.gif"
-  seotitle = "Hugo Blog (SEO Version)"
+  avatar = "images/nana_android.png"
+  seotitle = "7."
   subtitle = "~ Keep It Simple & Stupid ~"
   description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
   paginate = 10
