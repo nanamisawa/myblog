@@ -9,7 +9,7 @@ draft: false
 $$e^{i\pi} = -1$$
 
 
-```
+```bash
 echo "Hello"
 ```
 
