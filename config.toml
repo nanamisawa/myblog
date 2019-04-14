@@ -16,7 +16,7 @@ pygmentsCodefences = true
   name = "About"
   weight = 20
   identifier = "about"
-  url = "/portfolio"
+  url = "/about/"
 
 [[menu.main]]
   name = "Papers"
