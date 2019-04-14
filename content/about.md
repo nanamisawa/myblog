@@ -7,7 +7,6 @@ weight: 50
 
 Thank you for visiting my site.  
 I'm Nana Misawa, a Ph.D candidate at Nagoya University, Japan.
-
 This blog covers a wide range of topics.  
 Mainly it's written in Japanese, but sometimes in English.
 
@@ -62,9 +61,9 @@ Mainly it's written in Japanese, but sometimes in English.
 分子動力学法（MD）とモンテカルロ法（MC）を組み合わせることで反応ダイナミクスの可視化・解析を行い、反応の微視的解明を目指す研究をしています。
 
 **所属学会**  
-- 理論化学会
-- 高分子学会
-- アメリカ物理学会
+- 理論化学会  
+- 高分子学会  
+- アメリカ物理学会  
 
 **論文・学会発表**
 
@@ -74,8 +73,9 @@ Mainly it's written in Japanese, but sometimes in English.
 
 ざっくり言うとデータを扱う仕事がしたいと考えています。
 これまでは対象が化学物質でしたが、今後は
-- データサイエンス・アナリティクス関係
-- 金融系エンジニア（アクチュアリーに興味あり）
+- データサイエンス・アナリティクス関係  
+- 金融系エンジニア（アクチュアリーに興味あり）  
+分野での就職を希望します。
 
 **キャリアプラン**  
 
