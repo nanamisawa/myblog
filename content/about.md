@@ -66,11 +66,10 @@ Mainly it's written in Japanese, but sometimes in English.
 学部生時代は有機化学の研究室で、蛍光発光性化合物の合成をしていました。  
 
 
-**所属学会**  
-
-* 理論化学会  
-* 高分子学会  
-* アメリカ物理学会  
+##所属学会##  
+- 理論化学会  
+- 高分子学会  
+- アメリカ物理学会  
 
 **論文・学会発表**  
 (1) 著者：Ryo Shintani,2 Nana Misawa,4 Ryo Takano4 and Kyoko Nozaki1 題名：”Rhodium-Catalyzed Synthesis and Optical Properties of Silicon-Bridged Arylpyridines”  誌名・発行所：Chemistry A European Journal, Wiley-VCH 巻号・発行年：23, 2660-2665, 2017 (DOI: 10.1002/chem.201605000)   
