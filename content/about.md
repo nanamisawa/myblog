@@ -66,7 +66,7 @@ Mainly it's written in Japanese, but sometimes in English.
 学部生時代は有機化学の研究室で、蛍光発光性化合物の合成をしていました。  
 
 
-##所属学会##  
+## 所属学会 ##  
 - 理論化学会  
 - 高分子学会  
 - アメリカ物理学会  
