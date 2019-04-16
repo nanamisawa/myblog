@@ -1,3 +1,13 @@
 @import 'partials/variables';
 
 /* Override theme styles here */
+.post-summary {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+	overflow: hidden; //By nanamisawa 
+	height: 1.8em; //By nanamisawa
+	line-height: 0.9; //By nanamisawa
+    font-size: 0.9rem;
+    text-align: justify;
+    opacity: 0.8;
+}
