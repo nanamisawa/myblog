@@ -7,13 +7,6 @@
     <img class="post-cover" src="{{ .Params.cover }}" alt="{{ .Title }}" lazyload="on">
   {{ end }}
   <p class="post-summary">{{ .Summary | plainify | htmlUnescape }}</p>
-	<style>
-	.post-summary{
-	    height: 100px;
-	    overflow: hidden;
-	}
-	</style>
-	
   <footer class="post-footer">
     <a class="read-more" href="{{ .Permalink }}">Read More →</a>
   </footer>
