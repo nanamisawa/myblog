@@ -42,3 +42,5 @@ pygmentsCodefences = true
   email = "misawa.nana7@gmail.com"
   github = "nanamisawa"
   twitter = "mswn7"
+  # Overrid theme styles in this file
+  customStyle = "styles/custom.scss"

@@ -115,7 +115,6 @@
 <link rel="apple-touch-icon" href="{{ $icon152 | relURL }}">
 <!-- By nanamisawa -->
 <!--
-<link rel="icon" href="{{ $favicon | relURL }}">
 <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png">
@@ -152,8 +151,6 @@
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 {{ with .Site.Params.customStyle }}<link rel="stylesheet" href="{{ $customStyle.RelPermalink }}">{{ end }}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
-<!-- By nanamisawa --> 
-<!-- <link rel="stylesheet" href="/assets/styles/partials/syntax.css"> -->
 
 <!-- Medium Zoom -->
 {{ if and (eq .Kind "page") (eq .Type "post") }}
