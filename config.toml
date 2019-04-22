@@ -3,6 +3,9 @@ languageCode = "ja"
 title = "7."
 theme = "hugo-nuo"
 
+pygmentsCodeFencesGuessSyntax = true
+pygmentsStyle = "monokai"
+pygmentsoptions = "linenos=inline"
 pygmentsUseClasses=true
 pygmentsCodefences = true
 
