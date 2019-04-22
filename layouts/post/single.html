@@ -7,6 +7,7 @@
 	  {{ .TableOfContents }} <!-- By nanamisawa -->
     </header>
     <article class="post-content">{{ .Content }}</article>
+	{{ partial "related.html" . }} <!-- By nanamisawa-->>
     <footer class="post-footer">
       {{ if isset .Params "tags" }}
       <ul class="post-tags">
