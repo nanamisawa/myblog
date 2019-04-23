@@ -12,7 +12,6 @@
       <h2 class="list-label">Posts List</h2>
     </header>
     {{ $paginator := .Paginate (where .Data.Pages "Type" "post") (index .Site.Params "paginate" | default 10) }}
-    {{ .Render "summary" }}
 	{{- $sec := .CurrentSection }}
 	{{- if $sec }}
 	  {{- if $sec.IsHome }}
