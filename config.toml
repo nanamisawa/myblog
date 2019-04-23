@@ -25,7 +25,7 @@ pygmentsCodefences = true
   name = "Study"
   weight = 30
   identifier = "study"
-  url = "/studies/"
+  url = "/study/"
 
 [[menu.main]]
   name = "Papers"
