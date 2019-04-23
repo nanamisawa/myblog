@@ -22,14 +22,20 @@ pygmentsCodefences = true
   url = "/about/"
 
 [[menu.main]]
-  name = "Papers"
+  name = "Study"
   weight = 30
+  identifier = "study"
+  url = "/about/"
+
+[[menu.main]]
+  name = "Papers"
+  weight = 40
   identifier = "works"
   url = "https://scholar.google.co.jp/citations?user=QiscMP0AAAAJ&hl"
 
 [[menu.main]]
   name = "Tags"
-  weight = 40
+  weight = 50
   identifier = "tags"
   url = "/tags/"
 
