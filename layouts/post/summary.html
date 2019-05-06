@@ -1,7 +1,7 @@
 <article class="post-entry">
   <header class="post-header">
     <h3 class="post-title"><a href="{{ .Permalink }}" class="post-link">{{ .Title }}</a></h3>
-    <p class="post-meta">@{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }} · {{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read
+	<p class="post-meta">@{{ .Site.Params.author }} · {{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</p>
 	{{ if .Params.tags }}
 	<ul class="article-tag-list">
 	  {{ range $tag := .Params.tags }}
@@ -11,7 +11,6 @@
 	  {{ end }}
 	</ul>
 	{{ end }}
-  	</p>
   </header>
   {{ if isset .Params "cover" }}
     <img class="post-cover" src="{{ .Params.cover }}" alt="{{ .Title }}" lazyload="on">
