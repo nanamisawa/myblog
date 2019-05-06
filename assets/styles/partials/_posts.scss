@@ -36,10 +36,6 @@
         background: $background;
         font-size: $size-7;
 
-	    &:before {
-	      content: "#";
-	    }
-
         & + li {
           margin-left: 0.5rem;
         }

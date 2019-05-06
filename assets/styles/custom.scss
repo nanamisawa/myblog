@@ -50,5 +50,27 @@
   &:before {
 	content: "#";
   }
+}
 
+.post-tags {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-left: 0;
+  
+  & li {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    border-radius: $radius;
+    padding: 5px 10px;
+    background: $background;
+    font-size: $size-7;
+  
+    &:before {
+      content: "#";
+    }
+  
+    & + li {
+      margin-left: 0.5rem;
+    }
+  }
 }
