@@ -28,6 +28,10 @@
       margin-bottom: 1rem;
       padding-left: 0;
 
+	  &:before{
+		content: "#";
+	  }
+
       & li {
         display: inline-block;
         margin-bottom: 0.5rem;
