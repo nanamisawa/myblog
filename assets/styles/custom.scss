@@ -32,7 +32,6 @@
 
 .article-tag-list-item {
   float: left;
-  padding-left: 0px;
   margin-right: 10px;
   display: inline-block;
   margin-bottom: 0.5rem;
@@ -40,6 +39,9 @@
   padding: 5px 10px;
   background: $background;
   font-size: $size-7;
+  & ul{
+	padding-left: 0px;
+  }
 
 }
 .article-tag-list-link {
