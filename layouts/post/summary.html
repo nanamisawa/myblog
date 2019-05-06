@@ -20,7 +20,7 @@
 		  <ul class="article-tag-list">
 				  {{ range $tag := .Params.tags }}
 				  <li class="article-tag-list-item">
-						  <a href="/tags/{{ $tag | urlize }}"><span class="tag">{{ $tag | title }}</span>
+						  <a class="article-tag-list-link" href="/tags/{{ $tag | urlize }}"><span class="tag">{{ $tag | title }}</span>
 						  </a>
 				  </li>
 				  {{ end }}
