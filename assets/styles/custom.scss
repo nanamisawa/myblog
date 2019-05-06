@@ -25,3 +25,11 @@
 	border-radius: 5px;  
 	padding: 1em;        
 }
+
+.article-tag-list-item {
+  float: left;
+  margin-right: 10px;
+}
+.article-tag-list-link:before {
+  content: "#";
+}
