@@ -19,7 +19,10 @@
 		  {{ if .Params.tags }}
 		  <ul class="post-tags">
 				  {{ range $tag := .Params.tags }}
-				  <li><a href="/tags/{{ $tag | urlize }}"><span class="tag">{{ $tag | title }}</span></a></li>
+				  <li class="article-tag-list-item">
+						  <a class="article-tag-list-link" href="/tags/{{ $tag | urlize }}"><span class="tag">{{ $tag | title }}</span>
+						  </a>
+				  </li>
 				  {{ end }}
 		  </ul>
 		  {{ end }}
