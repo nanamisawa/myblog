@@ -11,12 +11,11 @@
 	  {{ end }}
 	</ul>
 	{{ end }}
-	<br />
+  	</p>
   </header>
   {{ if isset .Params "cover" }}
     <img class="post-cover" src="{{ .Params.cover }}" alt="{{ .Title }}" lazyload="on">
   {{ end }}
-  </p>
   <p class="post-summary">{{ .Summary | plainify | htmlUnescape }}</p>
   <!-- By nanamisawa -->
 	<style>
