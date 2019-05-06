@@ -33,6 +33,13 @@
 .article-tag-list-item {
   float: left;
   margin-right: 10px;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  border-radius: $radius;
+  padding: 5px 10px;
+  background: $background;
+  font-size: $size-7;
+
 }
 .article-tag-list-link {
 
@@ -44,16 +51,4 @@
 	content: "#";
   }
 
-  & li {
-    display: inline-block;
-    margin-bottom: 0.5rem;
-    border-radius: $radius;
-    padding: 5px 10px;
-    background: $background;
-    font-size: $size-7;
-
-    & + li {
-      margin-left: 0.5rem;
-    }
-  }
 }
