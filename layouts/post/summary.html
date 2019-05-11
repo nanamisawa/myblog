@@ -3,13 +3,13 @@
     <h3 class="post-title"><a href="{{ .Permalink }}" class="post-link">{{ .Title }}</a></h3>
 	<p class="post-meta">@{{ .Site.Params.author }} · {{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</p>
 	{{ if .Params.tags }}
-	<ul class="article-tag-list">
+	<p><ul class="article-tag-list">
 	  {{ range $tag := .Params.tags }}
 	  <li class="article-tag-list-item">
 	  	<a class="article-tag-list-link" href="/tags/{{ $tag | urlize }}"><span class="tag">{{ $tag | title }}</span></a>
 	  </li>
 	  {{ end }}
-	</ul>
+	</ul></p>
 	{{ end }}
   </header>
   {{ if isset .Params "cover" }}
