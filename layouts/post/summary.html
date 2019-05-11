@@ -2,17 +2,6 @@
   <header class="post-header">
     <h3 class="post-title"><a href="{{ .Permalink }}" class="post-link">{{ .Title }}</a></h3>
 	<p class="post-meta">@{{ .Site.Params.author }} · {{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</p>
-	<!-- By nanamisawa -->
-	{{ if .Params.tags }}
-	<ul class="article-tag-list">
-	  {{ range $tag := .Params.tags }}
-	  <li class="article-tag-list-item">
-	  	<a class="article-tag-list-link" href="/tags/{{ $tag | urlize }}"><span class="tag">{{ $tag | title }}</span></a>
-	  </li>
-	  {{ end }}
-	</ul>
-	{{ end }}
-    <br>
   </header>
   {{ if isset .Params "cover" }}
     <img class="post-cover" src="{{ .Params.cover }}" alt="{{ .Title }}" lazyload="on">
@@ -27,6 +16,17 @@
 	</style>
   -->
   <footer class="post-footer">
-	<a class="read-more" href="{{ .Permalink }}">Read More →</a>
+	<!-- By nanamisawa -->
+	{{ if .Params.tags }}
+	<ul class="article-tag-list">
+	  {{ range $tag := .Params.tags }}
+	  <li class="article-tag-list-item">
+	  	<a class="article-tag-list-link" href="/tags/{{ $tag | urlize }}"><span class="tag">{{ $tag | title }}</span></a>
+	  </li>
+	  {{ end }}
+	</ul>
+	{{ end }}
+    <br>
+	<!-- <a class="read-more" href="{{ .Permalink }}">Read More →</a>-->
   </footer>
 </article>
