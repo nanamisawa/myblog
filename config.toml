@@ -8,6 +8,7 @@ pygmentsStyle = "monokai"
 pygmentsoptions = "linenos=inline"
 pygmentsUseClasses=true
 pygmentsCodefences = true
+summarylength=70
 
 [[menu.main]]
   name = "Home"
