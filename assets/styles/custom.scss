@@ -37,7 +37,7 @@
   display: inline-block;
   margin-bottom: 0.5rem;
   border-radius: $radius;
-  padding: 0px 2px;
+  padding: 0px 0px;
   background: $background;
   font-size: $size-7;
 }
@@ -73,4 +73,9 @@
       margin-left: 0.5rem;
     }
   }
+}
+
+.post-tag-list {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
