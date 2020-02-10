@@ -11,12 +11,6 @@ This blog covers a wide range of topics.
 Mainly it's written in Japanese, but sometimes in English.
 
 
-ご覧頂きありがとうございます。  
-2021年3月卒業見込みで就職活動を開始するため  
-以下、自己紹介（アピール要素多め）です。
-ご興味の無い方はお手数ですがブラウザバックをお願いいたします。
-
-
 # This is nanamisawa
 
 ## 経歴  
@@ -45,17 +39,18 @@ Mainly it's written in Japanese, but sometimes in English.
 - 実用フランス語技能検定 二級（大学三年時取得）  
 - TOEIC 910（大学三年時取得）
 
-## 各種プログラミング言語レベル  
+## 各種技術・プログラミング言語レベル  
 - Python 標準ライブラリ・フレームワークを使いこなせる程度  
 - C 任意の処理が記述できる程度  
 - Java リファレンスがあれば利用できる程度  
 - SQL リファレンスがあれば利用できる程度
+- UNIX,Linux リファレンスがあれば一通り構築・管理ができる程度
 
 ## 特色ある活動・受賞など  
 2013年　東京新聞全国舞踊コンクール　バレエ第一部　入選  
 2013年　まちだ全国舞踊コンクール　シニア部門　まちだエスポワール賞  
 2013年　Australian Conservatoire of Ballet 短期留学  
-2014年　東京大学 Tea Time Hackathon サイバーエージェント賞（３人チーム）
+2014年　東京大学 Tea Time Hackathon サイバーエージェント賞（３人チーム）  
 2015年　工学部丁友会　総務担当  
 2016年　経済産業省夏期インターンシップ 経済産業省大臣賞（５人チーム）  
 2017年　ISUMS 2017 Best Poster Award  
@@ -98,7 +93,7 @@ Mainly it's written in Japanese, but sometimes in English.
 
 Coming soon
 
-## 主張したいこと  
+## 自己PR  
 今は計算・理論化学を専門として研究しています。  
 不可解な現象を解明するという課題に対して  
 どうアプローチするかという道標の無い中で研究を進めてきました。    
