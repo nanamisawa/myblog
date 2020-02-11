@@ -2,12 +2,12 @@ hugo
 
 git add .
 git commit -m modify
-git push
+git push origin master
 
 cd public
 git add .
 git commit -m modify
-git push
+git push origin master
 cd ../
 
 
