@@ -7,9 +7,6 @@ weight: 50
 
 Thank you for visiting my site.  
 I'm Nana Misawa, a Ph.D candidate at Nagoya University, Japan.  
-This blog covers a wide range of topics.  
-Mainly it's written in Japanese, but sometimes in English.
-
 
 # This is nanamisawa
 
@@ -44,7 +41,7 @@ Mainly it's written in Japanese, but sometimes in English.
 - C 任意の処理が記述できる程度  
 - Java リファレンスがあれば利用できる程度  
 - SQL リファレンスがあれば利用できる程度
-- UNIX,Linux リファレンスがあれば一通り構築・管理ができる程度
+- Linux リファレンスがあれば一通り構築・管理ができる程度
 
 ## 特色ある活動・受賞など  
 2013年　東京新聞全国舞踊コンクール　バレエ第一部　入選  
@@ -55,6 +52,7 @@ Mainly it's written in Japanese, but sometimes in English.
 2016年　経済産業省夏期インターンシップ 経済産業省大臣賞（５人チーム）  
 2017年　ISUMS 2017 Best Poster Award  
 2019年　株式会社エス・エム・エス　データサイエンス　長期インターンシップ（学術振興会との兼ね合いにより無給）
+2019年　化学反応討論会　ポスター賞  
 
 ## 研究内容  
 
@@ -78,30 +76,6 @@ Mainly it's written in Japanese, but sometimes in English.
 (3) 国際会議における発表 （査読ありポスター） [4A] 著者：○Nana Misawa,4 Ryo Shintani,2 Tomohiro Tsuda,4 Mikiya Fujii,3 Koichi Yamashita1 and Kyoko Nozaki1 題名：”Origin of Unusual Dependency of LUMO Levels on Conjugation Length in Quinoidal Fused Oligosiloles” 学会名： American Physical Society March Meeting 2017  番号等・場所・年月：T1.00125, New Orleans, 2017年3月 [4B] 著者：○Nana Misawa,4 Ryo Shintani,2 Tomohiro Tsuda,4 Mikiya Fujii,3 Koichi Yamashita1 and Kyoko Nozaki1 題名：”Origin of Unusual Dependency of LUMO Levels on Conjugation Length in Quinoidal Fused Oligosiloles” 学会名：ISUMS 2017 番号等・場所・年月：P50, 大阪, 2017年6月   
 (4) 国内学会における発表 （査読なしポスター） [4A] 著者：○三澤 奈々,4 高野 遼,4 新谷 亮, 2 野崎 京子1 題名：新規ケイ素架橋アリールピリジンのロジウム触媒による選択的合成と光学特性 学会名：第63回有機金属化学討論会 番号等・場所・年月：P3-82, 東京, 2016年9月 [4B] 著者：○三澤 奈々,4 藤井 幹也,3 新谷 亮,2 津田 知拓,4 野崎 京子,1 山下 晃一1 題名：キノイド型縮環オリゴシロールの共役長に対する特異なLUMO準位依存性に関する理論的考察 学会名：第20回理論化学討論会 番号等・場所・年月：P73, 京都, 2017年5月
 
-
-## 希望業界・職種  
-以下の職種での就職を希望します。  
-
-- データサイエンス・アナリティクス関係（統計を基礎に数理で現象を解き明かしたい）  
-- 金融系エンジニア（資格は魅力的なのでアクチュアリーに興味あり）  
-
-職業に関しては専門にこだわるよりは活かすという方向性で職種を考えています。  
-ざっくり言うとデータ解析の仕事ないし関連技術の開発がしたいと考えています。  
-今後は医療・経済・金融・インフラ・産業といった分野のデータ解析に挑戦したいと考えています。  
-
-
-## 自己PR  
-今は計算・理論化学を専門として研究しています。  
-不可解な現象を解明するという課題に対して  
-どうアプローチするかという道標の無い中で研究を進めてきました。    
-様々な方のご指導・ご協力を得ながら粘り強く問題に取り組み、  
-その中に面白い規則性や原理を発見するという過程を楽しみながら  
-実績を積むことができたのではないかと思います。  
-
-長い目でキャリアプランを考えるにあたり、自分は将来これまでの経験を活かして、  
-データ解析を通して価値を生める人間になりたいと考えています。  
-そんな第一歩として、未熟なりにもまずはデータ解析の実践経験をたくさん積み、  
-少しでも人の役に立てるように努力したいと考えています。
 
 ## ご連絡先  
 misawa.nana7@gmail.com  
