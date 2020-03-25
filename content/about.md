@@ -60,22 +60,11 @@ I'm Nana Misawa, a Ph.D candidate at Nagoya University, Japan.
 
 分子動力学法（MD）とモンテカルロ法（MC）を組み合わせることで反応ダイナミクスの可視化・解析を行い、反応の微視的解明を目指す研究をしています。
 
-## 研究活動の経緯  
-学部生時代は特に有機化学における分子デザイン・反応に関する興味を持ち、実験有機化学に打ち込みました。実験を進めるうちに、反応条件による生成物の選択性の違いや、化合物の構造と物性の相関に対する疑問が生じ、その起源に対する好奇心を持つようになりました。そういった疑問を理論・計算化学によって解明したいとの思いから、大学院修士課程から理論化学の研究を始めました。こうして研究を進めるうちに、実験の結果を理論面から解析する面白さに気づき、私は実験化学者の役に立てる理論化学者になりたいと考えるようになりました。最近では化学全般において実験だけでなく計算化学を相補的に用いて、分子を「見て」研究が進めることでより効率的な分子デザインが出来る時代になりつつあります。このため今後、計算化学は更に広範な系に適用可能になる必要性を痛感しています。こうした問題を解決し、今後計算化学と実験化学との協働的研究の推進に携わって行きたいとの思いから、博士過程に進学して分子シミュレーションの研究をしています。   
-
 ## 所属学会   
 - 理論化学会
 - 日本化学会  
 - 高分子学会  
 - アメリカ物理学会  
-
-## 論文・学会発表  
-(1) 著者：Ryo Shintani,2 Nana Misawa,4 Ryo Takano4 and Kyoko Nozaki1 題名：”Rhodium-Catalyzed Synthesis and Optical Properties of Silicon-Bridged Arylpyridines”  誌名・発行所：Chemistry A European Journal, Wiley-VCH 巻号・発行年：23, 2660-2665, 2017 (DOI: 10.1002/chem.201605000)   
-(2) 著者：Ryo Shintani,2 Nana Misawa,4 Tomohiro Tsuda,4 Ryo Iino,4 Mikiya Fujii,3 Koichi Yamashita1 and Kyoko Nozaki1 題名：”Synthesis of Quinoidal Fused Oligosiloles by Rhodium-Catalyzed Stitching Reaction and Theoretical Investigation of Their Properties” 誌名・発行所：Journal of the American Chemical Society, American Chemical Society 巻号・発行年：139 (10), 3861-3867, 2017 (DOI: 10.1021/jacs.7b00344)   
-
-(3) 国際会議における発表 （査読ありポスター） [4A] 著者：○Nana Misawa,4 Ryo Shintani,2 Tomohiro Tsuda,4 Mikiya Fujii,3 Koichi Yamashita1 and Kyoko Nozaki1 題名：”Origin of Unusual Dependency of LUMO Levels on Conjugation Length in Quinoidal Fused Oligosiloles” 学会名： American Physical Society March Meeting 2017  番号等・場所・年月：T1.00125, New Orleans, 2017年3月 [4B] 著者：○Nana Misawa,4 Ryo Shintani,2 Tomohiro Tsuda,4 Mikiya Fujii,3 Koichi Yamashita1 and Kyoko Nozaki1 題名：”Origin of Unusual Dependency of LUMO Levels on Conjugation Length in Quinoidal Fused Oligosiloles” 学会名：ISUMS 2017 番号等・場所・年月：P50, 大阪, 2017年6月   
-(4) 国内学会における発表 （査読なしポスター） [4A] 著者：○三澤 奈々,4 高野 遼,4 新谷 亮, 2 野崎 京子1 題名：新規ケイ素架橋アリールピリジンのロジウム触媒による選択的合成と光学特性 学会名：第63回有機金属化学討論会 番号等・場所・年月：P3-82, 東京, 2016年9月 [4B] 著者：○三澤 奈々,4 藤井 幹也,3 新谷 亮,2 津田 知拓,4 野崎 京子,1 山下 晃一1 題名：キノイド型縮環オリゴシロールの共役長に対する特異なLUMO準位依存性に関する理論的考察 学会名：第20回理論化学討論会 番号等・場所・年月：P73, 京都, 2017年5月
-
 
 ## ご連絡先  
 misawa.nana7@gmail.com  
